@@ -1,0 +1,5 @@
+[requires]
+m4/latest@sztomi/testing
+
+[generators]
+virtualenv
