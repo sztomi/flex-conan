@@ -1,5 +1,5 @@
 [requires]
-m4/latest@sztomi/testing
+flex/2.6.3@sztomi/testing
 
 [generators]
 virtualenv
